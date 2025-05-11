@@ -7,4 +7,4 @@ Projects
 4. Use Lazy loading to intialize objects delaying the creation of the object until it is actually needed.
 6. Singelton Design Pattern 
 5. DataProcessor.cs calculate
-6. PLease comment if encountered with duplicate issue in Assembly file MYProApp.AssemblyInfo.cs
+6. Please comment if encountered with duplicate issue in Assembly file MyProApp.AssemblyInfo.cs --commented
